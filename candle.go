@@ -2,5 +2,5 @@ package candle
 
 // Version returns the current version.
 func Version() string {
-	return "v0.1.1"
+	return "v1.0.0"
 }
